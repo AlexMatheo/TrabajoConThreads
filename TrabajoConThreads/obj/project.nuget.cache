@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uo+Ljpbk+MsrEA/4w7JO5haMgUpPYLuRNIi+ar1pXve4W5Qyv+Dtktb2QX/zLYFS0Ondb6gqIsvFZHKRonO1Gg==",
+  "success": true,
+  "projectFilePath": "D:\\MisPracticas\\ThreadsNetCore\\TrabajoConThreads\\TrabajoConThreads\\TrabajoConThreads.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
